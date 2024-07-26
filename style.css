@@ -64,7 +64,7 @@ html, body {
 
 .slider .slide-track {
     display: flex;
-    animation: scroll 50s linear forwards;
+    animation: scroll 50s linear infinite;
 }
 
 
